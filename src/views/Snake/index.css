@@ -1,0 +1,8 @@
+.app-container {
+  min-height: stretch;
+  padding: 20px;
+  background-color: #fff;
+}
+.app-container h3 {
+  margin-top: 0px;
+}
